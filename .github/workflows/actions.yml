@@ -34,7 +34,7 @@ jobs:
           -k \
           -r cli,htmlextra \
           --reporter-htmlextra-export /etc/newman/docs/index.html \
-          --reporter-htmlextra-browserTitle "Ola Mundo" \
+          --reporter-htmlextra-browserTitle "QA Newman" \
           --reporter-htmlextra-title "QA Newman - HTMLEXTRA, GitHub Actions e GitHub Pages"
 
       # Show the directory and list its contents
